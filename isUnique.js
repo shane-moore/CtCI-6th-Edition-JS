@@ -1,1 +1,0 @@
-// strings and arrays practice
